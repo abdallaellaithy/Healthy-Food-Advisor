@@ -2,6 +2,14 @@
 
 **Healthy-Food-Advisor** is a Telegram bot designed to help users make informed decisions about their food choices based on their health conditions. The bot leverages state-of-the-art image processing and natural language processing models to analyze food items and provide advice on whether the food is good to eat, should be consumed in moderation, or should be avoided.
 
+## How to Use the Program
+
+Follow the steps in the GIF below to learn how to use the program:
+
+<p align="center">
+  <img src="https://github.com/abdallaellaithy/Healthy-Food-Advisor/blob/main/assets/Bot_Usage_Instructions.gif" alt="Usage Instructions">
+</p>
+
 ## Features
 
 - **User Interaction via Telegram**: Users can interact with the bot using simple commands and buttons. The bot can handle various user inputs, including text commands and images.
